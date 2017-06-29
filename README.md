@@ -26,6 +26,7 @@
 * [wrk](): 压测工具
 * [ab](): 压测工具
 * [jmeter](): 压测工具
+* [easy-monitor](https://github.com/hyj1991/easy-monitor): 内存泄漏检测和慢函数检测工具
 
 
 # Linux 命令
