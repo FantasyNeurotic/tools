@@ -2,7 +2,7 @@
 # Node.js
 * [SailsJS](https://github.com/balderdashy/sails): NodeJS企业级开发框架
 * [loopback](https://github.com/strongloop/loopback): StrongLoop出品的NodeJS企业级开发框架
-* [koa](https://github.com/koajs/koa): 服务器开发框架
+* [koa](https://github.com/koajs/koa): 服务器开发框架 [文章分享](https://cnodejs.org/topic/588554d91dc8ff8739cbc5b7)
 * [express](https://github.com/expressjs/express): 服务器开发框架
 * [oauth2orize](https://github.com/jaredhanson/oauth2orize): OAuth2.0的实现
 * [OAuthorize](https://github.com/jaredhanson/oauthorize): OAuth 的实现
