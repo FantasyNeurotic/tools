@@ -27,6 +27,17 @@
 * [ab](): 压测工具
 * [jmeter](): 压测工具
 * [easy-monitor](https://github.com/hyj1991/easy-monitor): 内存泄漏检测和慢函数检测工具
+* [node-clinic] 快速定位性能问题
+```
+npm i -g clinic
+npm i -g autocannon
+使用的时候，先开启服务进程：
+clinic doctor -- node server.js
+跑压测
+autocannon http://localhost:3000
+关闭clinic进程
+
+```
 
 
 # Linux 命令
